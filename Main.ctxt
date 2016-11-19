@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ Stuff()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getBye()
+comment4.params=
+comment4.target=java.lang.String\ getNameThing()
+comment5.params=
+comment5.target=void\ doActivity()
+numComments=6
